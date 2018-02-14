@@ -1,4 +1,4 @@
-function say (happyHolidays () {
+function say (happyHolidays) {
   console.log ('Happy Holidays')
 } 
 
